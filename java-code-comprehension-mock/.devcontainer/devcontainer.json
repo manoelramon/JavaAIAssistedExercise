@@ -1,0 +1,4 @@
+{
+  "name": "Java 17 interview workspace",
+  "image": "mcr.microsoft.com/devcontainers/java:17-bookworm"
+}
